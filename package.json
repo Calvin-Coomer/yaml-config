@@ -1,0 +1,23 @@
+{
+  "name": "@calvin-coomer/yaml-config",
+  "version": "1.0.0",
+  "description": "YAML Config Loader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Calvin-Coomer/yaml-config.git"
+  },
+  "author": "Calvin Coomer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Calvin-Coomer/yaml-config/issues"
+  },
+  "homepage": "https://github.com/Calvin-Coomer/yaml-config#readme",
+  "dependencies": {
+    "@calvin-coomer/fns": "^1.0.5",
+    "yaml": "^2.2.1"
+  }
+}
